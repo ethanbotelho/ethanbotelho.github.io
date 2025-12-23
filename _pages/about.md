@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in Real Analysis, Partial Differential Equations, and Number Theory.
+Hello! My name is Ethan Botelho, and I am a Ph.D. student in Mathematics at North Carolina State University. My research interests are in Real Analysis, Partial Differential Equations, and Number Theory. My Ph.D. research advisor is [Tien Khai Nguyen](https://tnguye13.math.ncsu.edu/).
